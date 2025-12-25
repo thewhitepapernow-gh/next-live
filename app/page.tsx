@@ -1,6 +1,6 @@
 const page = () => {
   return (
-    <div>first live project abc</div>
+    <div>new new new</div>
   )
 }
 
